@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+
+}
+
+header h2{
+    font-family: cursive;
+    text-align: left;
+    color: rgb(200, 190, 255);
+}
+.LOGO{
+    text-decoration: none;
+    text-align: left;
+}
+.LOGO:hover{
+    text-decoration: none;
+    transform: scale(1.1);
+    border-radius: 10px;
+    padding: 1px;
+    color: rgb(43, 18, 66);
+
+}
+section{
+    
+    margin-bottom: 97px;
+    box-shadow: 5px 5px 25px rgb(56, 42, 42);
+    border-radius: 10px;
+    padding: 20px 0;
+
+}
+.imge{
+    height: 200px;
+
+
+}
+.imge:hover{
+    transform: scale(1.1);
+    border-radius: 10px;
+    padding: 2px;
+    background-color: rgb(123, 7, 255);
+     
+}
+h1{ 
+
+    text-align: center;
+    padding: 20px 0;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: rgb(99, 5, 252);
+    color: white;
+    border-radius: 13px;
+    font-family: cursive;
+    
+}
+.perant{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 6px;
+    padding-left: 300px;
+    margin: 2px;
+    
+
+}
+.perant li a:hover{
+    transform: scale(1.5);
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(123, 7, 255);
+
+}
+.perant li a{
+    color: rgb(193, 161, 252);
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 100px;
+
+
+}
+li{
+   list-style: none;
+
+}
+
+
+.x{
+   text-align: left;
+   list-style: none;
+   text-decoration: none;
+   color: aliceblue;
+}
+.dark header{
+    background-color: rgb(70, 55, 104);
+    margin-bottom: 80px;
+    padding: 0%;
+
+}
+
+
+.dark h1{
+    background-color:  rgb(70, 55, 104);
+
+}
+
+
+.dark{
+    background-color: rgb(58, 58, 58);
+    height: 100vh;
+}
+
+.dark section{
+    background-color: rgb(39, 39, 39);
+    box-shadow: 5px 5px 25px rgb(97, 96, 96);
+}
+footer{
+    border: 10px;
+    border-radius: 10px 10px 0px 0px;
+    font-family: cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
